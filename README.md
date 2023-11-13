@@ -1,6 +1,5 @@
 # UNAD Proyecto de Modelos de Aprendizaje Automatico
 Analizar el proceso de aprendizaje supervisado a partir de grandes cantidades de datos, mediante el proceso de visualización de agoritmos árbol de decisiones, KNN y Naive Bayes.
-
 ### Se Desarrollan los sigientes Puntos
 
 - Ejercicio propuesto empleando el algoritmo Árboles de decisión
